@@ -41,6 +41,40 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=libs\lumped\CPF0402B5K1E1.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KZHTSIFO
+
+[Document2]
+DocumentPath=libs\lumped\CPF0402B5K1E1.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EJWEYLPY
+
+[Document3]
 DocumentPath=libs\connectors\12401832E402A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -57,7 +91,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HBXNHHJN
 
-[Document2]
+[Document4]
 DocumentPath=libs\connectors\12401832E402A.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -74,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CJRXPEAA
 
-[Document3]
+[Document5]
 DocumentPath=libs\lumped\TMJ107CB7105KAHR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -91,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HBXNHHJN
 
-[Document4]
+[Document6]
 DocumentPath=libs\lumped\TMJ107CB7105KAHR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -108,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CARLGWGD
 
-[Document5]
+[Document7]
 DocumentPath=libs\lumped\GRM155R71H104KE14D.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RHHWXXRJ
 
-[Document6]
+[Document8]
 DocumentPath=libs\lumped\GRM155R71H104KE14D.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HBXNHHJN
 
-[Document7]
+[Document9]
 DocumentPath=libs\connectors\692141030100.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BLLUWYFK
 
-[Document8]
+[Document10]
 DocumentPath=libs\connectors\692122030100.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KARSFXYR
 
-[Document9]
+[Document11]
 DocumentPath=libs\connectors\692141030100.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +227,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VMOCMBLZ
 
-[Document10]
+[Document12]
 DocumentPath=libs\connectors\692122030100.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -210,7 +244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DBEFXTIV
 
-[Document11]
+[Document13]
 DocumentPath=libs\ics\TLV74133PDBVR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -227,7 +261,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RVDDMPKL
 
-[Document12]
+[Document14]
 DocumentPath=libs\ics\TLV74133PDBVR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -244,7 +278,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RBSHEMEP
 
-[Document13]
+[Document15]
 DocumentPath=libs\ics\HD3SS6126RUAR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -261,7 +295,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HBXNHHJN
 
-[Document14]
+[Document16]
 DocumentPath=libs\ics\HD3SS6126RUAR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -278,7 +312,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DEPAAYGZ
 
-[Document15]
+[Document17]
 DocumentPath=mux.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -295,7 +329,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KYXWFIPR
 
-[Document16]
+[Document18]
 DocumentPath=mux.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
